@@ -1,0 +1,5 @@
+file bts_vac_tmc.template {
+  pattern
+    {PORT}
+    {"BTS_VAC_ADS"}    
+}

@@ -1,0 +1,7 @@
+epicsEnvSet("IOC","iocbts_vacuum")
+epicsEnvSet("TOP","/home/nathan/Projects/BTS/bts_vacuum")
+epicsEnvSet("MODULES","/opt/epics/modules")
+epicsEnvSet("ASYN","/opt/epics/modules/asyn")
+epicsEnvSet("ADS","/opt/epics/modules/m-epics-twincat-ads")
+epicsEnvSet("AUTOSAVE","/opt/epics/modules/autosave")
+epicsEnvSet("EPICS_BASE","/opt/epics/base-7.0.2.2")
